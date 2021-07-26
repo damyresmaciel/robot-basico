@@ -20,6 +20,6 @@ Digitar no campo de pesquisa
     Input Text                          name=q          ${Pesquisar}
 Click Btn pesquisar
     Press Keys                          name=q           ENTER
-    Sleep                               2s    
+    Sleep                               5s    
 
 
