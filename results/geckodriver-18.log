@@ -1,0 +1,64 @@
+1626864660976	geckodriver	INFO	Listening on 127.0.0.1:49611
+1626864660981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethUC7p"
+1626864661383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilethUC7p/search.json.mozlz4", (void 0)))
+1626864662747	Marionette	INFO	Listening on port 33581
+1626864662797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/gallery
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/details
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/wishlist
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/button
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/badge
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/label
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/promotional-tag
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/elements/select
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product-list/filters
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: globalCart
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: owlcarousel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: embedVideo
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: login
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_OnePageCheckout/js/action/address-by-zipcode
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/template
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: jquery/jquery-ui-timepicker-addon
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/view/utils/dom-observer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/view/utils/bindings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/strings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: pageChecker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+1626864667274	Marionette	INFO	Stopped listening on port 33581
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

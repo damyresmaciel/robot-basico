@@ -1,0 +1,55 @@
+1625855741384	geckodriver	INFO	Listening on 127.0.0.1:49523
+1625855741390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVOwpua"
+1625855741823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVOwpua/search.json.mozlz4", (void 0)))
+1625855743457	Marionette	INFO	Listening on port 38019
+1625855743510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Customer/js/section-config
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/view/utils/dom-observer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/view/utils/bindings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/cookies
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/core/collection
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/model/product
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product-list/toolbar
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: jquery/jquery.metadata
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: jquery/jquery-ui-timepicker-addon
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: scala
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/strings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/template
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: global
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/frontend/Corra/webjump/pt_BR/mage/requirejs/text.min.js, line 8: Error: https://www.riachuelo.com.br/static/version1623357894/frontend/Corra/webjump/pt_BR/js-translation.json HTTP status: 403
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625859431912	Marionette	INFO	Stopped listening on port 38019
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

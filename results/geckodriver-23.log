@@ -1,0 +1,90 @@
+1626865392839	geckodriver	INFO	Listening on 127.0.0.1:58987
+1626865392846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefi3Bra"
+1626865393319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefi3Bra/search.json.mozlz4", (void 0)))
+1626865394867	Marionette	INFO	Listening on port 41317
+1626865394968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: jquery/ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: slimscroll
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: pageChecker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/util/selector
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/color-swatch
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/product/price
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/elements/dropdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/elements/multiselect-dropdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/elements/multilevel-dropdown
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: RCHLO_Catalog/js/view/elements/range-slider
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/renderer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/i18n
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/scope
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/range
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/mage-init
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/keyboard
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/optgroup
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/after-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/autoselect
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/datepicker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/outer_click
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/fadeVisible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/staticChecked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bind-html
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/simple-checked
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/tooltip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/color-picker
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/observable_source
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/console-logger
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/arrays
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/compare
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/misc
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/objects
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/strings
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: mage/utils/template
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/_cache/merged/2b20e903505601d51565e3e47f0b13df.min.js, line 16: Error: Script error for: Magento_Ui/js/lib/core/storage/local
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/frontend/Corra/webjump/pt_BR/Magento_Customer/js/customer-data.min.js, line 1: Error: [object Object]
+JavaScript error: https://www.riachuelo.com.br/static/version1623357894/frontend/Corra/webjump/pt_BR/mage/requirejs/text.min.js, line 8: Error: https://www.riachuelo.com.br/static/version1623357894/frontend/Corra/webjump/pt_BR/js-translation.json HTTP status: 403
+1626865415139	Marionette	INFO	Stopped listening on port 41317
