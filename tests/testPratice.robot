@@ -1,6 +1,6 @@
 ***Settings***
 Documentation                   Abrir uma página de site
-Resource                        ../../src/keywords/testPage.robot
+Resource                        ../src/testPage.robot
 Test Setup                       Abrir Navegador
 Test Teardown                    Fechar Navegador
 
