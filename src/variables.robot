@@ -1,6 +1,5 @@
 ***Settings***
 Documentation                           valor das keywords
-Resource                                keywords.robot
 
 ***Variables***
 ${Browser}                              firefox

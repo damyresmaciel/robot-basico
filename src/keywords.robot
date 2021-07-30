@@ -1,5 +1,6 @@
 ***Settings***
-Documentation                         
+Documentation
+Resource                                ./variables.robot                         
 Library                                 SeleniumLibrary
 
 ***Keywords***
