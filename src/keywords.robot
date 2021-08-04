@@ -1,26 +1,37 @@
 ***Settings***
 Documentation
-Resource                                ./variables.robot                         
+Resource                                ./variables.robot                        
 Library                                 SeleniumLibrary
 
 ***Keywords***
 Abrir Navegador
-    Open Browser                        ${page}                     ${Browser}
-
-Acessar pagina Twitch
-    Go To                               ${Url}
+    Open Browser                        ${Url}                          ${Browser}
     Title Should Be                     ${Title}                 
 
-Pesuisar por Faker              
-    Input Text                          ${Campo de pesquisa}         ${Pesquisar}
+Digitar no campo de pesquisa
+    [Arguments]                         ${campo}                        ${pesquisa}
+    Input Text                          ${campo}                        ${pesquisa}                         
 
-Click btn para pesquisar
-    Press Keys                          ${Campo de pesquisa}         ${Click enter}
-    Sleep                               5s
+Click btn pesquisar    
+    [Arguments]                         ${Campo de pesquisa}
+    Press Keys                          ${Campo de pesquisa}            ${Click enter}
 
-Acessar o primeiro video
-    Click Element                       ${Click element} 
-    #TODO adicionar click do play   
-    Sleep                               10s                                          
-Fechar Navegador
-    Close Browser
+Login de paginas
+    [Arguments]                             ${email}                                ${password}        ${Element}              
+    Input Text                              css=input[type=email]                   ${email}
+    Input Text                              css=input[type=password]                ${password}
+    Click Element                           ${Element}
+
+Navegador
+    [Arguments]                             ${url}                                  ${Browser}
+    Open Browser                            ${url}                                  ${Browser}
+
+Digitando no campo de pesquisa
+    [Arguments]                             ${text}                                 
+    Input Text                              css=input[type=text]                    ${text}
+    Press Keys                              css=input[type=text]                     ENTER
+
+Fechar pagina
+    Sleep                                   ${time}
+    Close Browser                          
+    
